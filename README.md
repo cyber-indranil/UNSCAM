@@ -47,6 +47,23 @@ UNSCAM's **Network Shield** provides citizen-controlled internet access restrict
 
 ---
 
+## UNSCAM Pro — a closer look
+
+Five actual screens from the UNSCAM citizen interface. Select any image to view it at full size.
+
+<table>
+  <tr>
+    <td align="center"><a href="unscam-home.jpg"><img src="unscam-home.jpg" alt="UNSCAM Pro Home screen" width="205" /></a><br /><strong>Protection Home</strong></td>
+    <td align="center"><a href="unscam-network-shield.jpg"><img src="unscam-network-shield.jpg" alt="UNSCAM Network Shield app internet access control" width="205" /></a><br /><strong>Network Shield</strong></td>
+    <td align="center"><a href="unscam-help.jpg"><img src="unscam-help.jpg" alt="UNSCAM Help and citizen guidance" width="205" /></a><br /><strong>Help &amp; Guidance</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="unscam-user-manual.jpg"><img src="unscam-user-manual.jpg" alt="UNSCAM integrated offline user manual" width="205" /></a><br /><strong>Offline User Manual</strong></td>
+    <td align="center"><a href="unscam-activity.jpg"><img src="unscam-activity.jpg" alt="UNSCAM Activity screen" width="205" /></a><br /><strong>Activity &amp; Alerts</strong></td>
+    <td align="center"><strong>Designed for clarity</strong><br /><br />Clear protection states.<br />Understandable app decisions.<br />Guidance when it matters.</td>
+  </tr>
+</table>
+
 ## Protection features
 
 | Protection area | What it means for citizens |
